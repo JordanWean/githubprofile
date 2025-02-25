@@ -1,5 +1,5 @@
 ---
-title: Landing Page
+title: Jordan Wean
 ---
 
 # Tools
