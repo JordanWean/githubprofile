@@ -8,7 +8,7 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      Seeley Lab: "https://medresearch.umich.edu/labs-departments/labs/seeley-lab",
+      "Seeley Lab": "https://medresearch.umich.edu/labs-departments/labs/seeley-lab",
     },
   }),
 }
