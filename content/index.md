@@ -1,5 +1,5 @@
 ---
-title: Jordan Wean
+title: Home Page
 ---
 
 # Tutorials
