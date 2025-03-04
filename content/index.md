@@ -11,7 +11,7 @@ These are tutorials on how you can use Prism to enhance your scientific life:
 If you have a simple ANCOVA with one factor and (ideally) two groups, you can run an ANCOVA in Prism, no need to use anything sophisticated. 
 [[Using Prism for One Factor ANCOVA Analysis]]
 
-# Using Extract and Rearrange in Prism
+## Using Extract and Rearrange in Prism
 
 Moving data from Excel to Prism is extremely tedious and error-prone, this tutorial will fix both of those things.
 [[Extract and Rearrange]]
