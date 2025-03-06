@@ -5,7 +5,10 @@ title: Home Page
 
 ## AncovaR
 
-Super early build of AncovaR, an easy way to run ANCOVA analysis. Aimed at metabolic scientists.
+Early build of AncovaR, an easy way to run ANCOVA analysis. Aimed at metabolic scientists.
+### Planned Features:
+- Multiple comparisons
+- Better assumption checking
 
 **Direct link to the tool itself**: [AncovaR](https://jordanwean.github.io/ancovaR-public/)
 # Tutorials
